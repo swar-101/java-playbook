@@ -5,6 +5,6 @@ package io.github.swar101;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Well, if the other classes pass don't throw syntax errors");
     }
 }

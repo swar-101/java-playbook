@@ -1,7 +1,6 @@
 package io.github.swar101.dsa.sorting.bubblesort;
 
-
-import org.swar101.dsa.sorting.Sort;
+import io.github.swar101.dsa.sorting.Sort;
 
 public class BubbleSort implements Sort {
 
@@ -13,11 +12,5 @@ public class BubbleSort implements Sort {
             }
         }
         return null;
-    }
-
-    public static void main(String[] args) {
-        Sort sort = new BubbleSort();
-        int[] a = new int[6];
-        sort.sort(a);
     }
 }

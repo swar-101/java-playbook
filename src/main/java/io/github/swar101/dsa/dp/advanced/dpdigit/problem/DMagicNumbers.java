@@ -1,4 +1,4 @@
-package io.github.swar101.dsa.dp.advanced.dpdigit;
+package io.github.swar101.dsa.dp.advanced.dpdigit.problem;
 
 import java.util.Arrays;
 

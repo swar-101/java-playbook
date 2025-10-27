@@ -7,9 +7,4 @@ public class Josephus {
             return 0;
         return (getSurvivor(n - 1) + 2) % n;
     }
-
-    public static void main(String[] args) {
-        Josephus j = new Josephus();
-        System.out.println(j.getSurvivor(5));
-    }
 }

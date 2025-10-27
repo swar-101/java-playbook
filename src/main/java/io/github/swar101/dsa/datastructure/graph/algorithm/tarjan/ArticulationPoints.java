@@ -4,7 +4,6 @@ public class ArticulationPoints implements TarjanAlgorithm<int[]> {
 
     @Override
     public int[] execute(int numberOfNodes, int[][] edges) {
-
         return new int[0];
     }
 }

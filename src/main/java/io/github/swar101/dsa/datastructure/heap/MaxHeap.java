@@ -11,7 +11,6 @@ public class MaxHeap implements Heap<Integer> {
         maxHeapArray = new ArrayList<>();
     }
 
-
     @Override
     public void insert(Integer val) {
 

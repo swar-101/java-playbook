@@ -23,8 +23,4 @@ public class BinarySearch {
         return 0;
     }
 
-    public static void main(String[] args) {
-        List<Integer> A = Arrays.asList(1, 3, 5, 6, 9, 10);
-        System.out.println(search(A, 6));
-    }
 }

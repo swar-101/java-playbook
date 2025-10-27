@@ -1,6 +1,6 @@
 package io.github.swar101.dsa.arithmetic.gcd;
 
-public class FindGcd {
+public class GcdFinder {
 
     /*
     * Brute Force : O(N) where N is min(a, b)
@@ -21,13 +21,5 @@ public class FindGcd {
     public static int findGcd(int a, int b) {
         if (b == 0) return a;
         return findGcd(b, a % b);
-    }
-
-
-    public static void main(String[] args) {
-        System.out.println(findGcd(12, 14));
-        System.out.println(bruteFindGcd(12, 14));
-
-
     }
 }
