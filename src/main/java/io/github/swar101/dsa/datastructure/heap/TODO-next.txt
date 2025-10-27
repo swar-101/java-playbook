@@ -1,0 +1,9 @@
+
+When I come back I should do these things:
+
+
+- Generic Heaps
+- Priority Queues
+- Applications like Dijkstra's or Huffman
+
+
